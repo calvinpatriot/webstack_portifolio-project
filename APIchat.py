@@ -10,7 +10,7 @@ openai.api_key = openai_api_key  # Set the API key using the imported variable
 start_sequence = "\nAI:"
 restart_sequence = "\nHuman: "
 
-prompt="Hi and welcome",
+prompt="Hi Calvin and welcome",
 
 def openai_create(prompt):
     response = openai.Completion.create(

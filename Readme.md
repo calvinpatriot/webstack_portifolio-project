@@ -10,7 +10,7 @@ This project demonstrates the use of OpenAI's GPT-3 model for creating a simple 
 
 ## Prerequisites
 
-Before using this code, make sure you have the following:
+The following is required when building this application:
 
 - Python installed
 - An OpenAI API key. Obtain it from [OpenAI](https://beta.openai.com/signup/) and replace `api_key` in `api_key.py` with your actual API key.
